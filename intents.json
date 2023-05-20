@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "responses": [
+        "Hello",
+        "Happy to help!",
+        "Hi!",
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "whoareyou",
+      "responses": [
+        "I am Prom-bot.",
+        "You can call me Prom-bot.",
+        "My developer told me I am Prom-bot.",
+        "My name is Prom-bot. Short for Promotion and Robot."
+      ]
+    },
+    {
+      "tag": "funny",
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "hate",
+      "responses": [
+        "Can you tell me more about it?",
+        "What do you hate exactly?",
+        "What else do you want me to do?"
+      ]
+    },
+    {
+      "tag": "sendemail",
+      "responses": [
+        "You may contact a live person by sending an email to victornilo.repatacodo@patts.edu.ph",
+        "Send an email to victornilo.repatacodo@patts.edu.ph",
+        "Alternatively, send a message to victornilo.repatacodo@patts.edu.ph"
+      ]
+    },
+    {
+      "tag": "purpose",
+      "responses": [
+        "I answer FAQs about Faculty's promotion in rank.",
+        "I provide answers to questions related to promotion of faculty.",
+        "I can tell you the requirements for applying for promotion."
+      ]
+    },
+    {
+      "tag": "requirements",
+      "responses": [
+        "Go to the sidebar and choose Apply for Promotion. The next page contains the list of requirements.",
+        "Requirements are listed on the Apply for Promotion page.",
+        "Know the requirements by going to the Apply for Promotion page."
+      ]
+    },
+    {
+      "tag": "promotion",
+      "responses": [
+        "Promotion in rank refers to the upward movement of one level in the Academic Ranking Scale.",
+        "Promotion in rank is bestowed to qualified faculty upon the recommendation of the Committee on Ranking, Promotion and Acceleration based on established criteria and approved by the President."
+      ]
+    },
+    {
+      "tag": "automatic",
+      "responses": [
+        "There is no automatic promotion in rank. A faculty must take the responsibility of applying for promotion and submitting all the requirements for purposes of adjustments in rank at the Academic Affairs Office through the Chairperson / Department Head."
+      ]
+    }
+  ]
+}
